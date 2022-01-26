@@ -1,4 +1,4 @@
 v1.2
-Today weather is good
+Today weather is bad
 Tomorrow it will be cloudy
 Chloe will go to school next Monday
